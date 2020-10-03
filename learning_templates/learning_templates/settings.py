@@ -26,7 +26,7 @@ SECRET_KEY = 'vvn$f)vd0%zjrs$b_65@o_+q=w91qa*xdx)a5yf%8eyq1m%q0d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [prometheus556.pythonanywhere.com]
+ALLOWED_HOSTS = []
 
 
 # Application definition
